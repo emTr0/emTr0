@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub profile!
+
+[![emTr0 profile banner](/emtr0-banner-new-pc.png)](https://emTr0.dev)
 
 <!--
 **emTr0/emTr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
