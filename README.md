@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile!
+### 👨🏽‍💻 Welcome to my GitHub profile! 🚀
 
 [![emTr0 profile banner](https://github.com/emTr0/emTr0/blob/master/emtr0-banner-new-pc.png)](https://emTr0.dev)
 
