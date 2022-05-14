@@ -2,11 +2,11 @@
 
 [![emTr0 profile banner](https://github.com/emTr0/emTr0/blob/master/emtr0-banner-new-pc.png)](https://emTr0.dev)
 
-Thanks for visiting! I'm currently learning JavaScript. Feel free to connect with me through the following links:
+Thanks for visiting! I'm currently working on the Full Stack Cloud Developer professional certificate from IBM/edX. Feel free to connect with me through the following links:
 
 - 🌐 [emTr0.dev](https://emTr0.dev)
 - 🐦 [Twitter](https://twitter.com/emTr0)
-- 📷 [Instagram](https://instagram.com/emTr0)
+- 📷 [Instagram](https://instagram.com/emTr0x)
 - 🔲 [CodePen](https://codepen.io/emTr0)
 - ⚙ [Steam Games](https://steamcommunity.com/id/emTr0)
 - 📬 [Telegram](https://t.me/emTr0)
