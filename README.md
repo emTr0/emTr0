@@ -9,4 +9,4 @@ Thanks for visiting! I'm currently working on the Full Stack Cloud Developer pro
 - 📷 [Instagram](https://instagram.com/emTr0x)
 - 📬 [Telegram](https://t.me/emTr0)
 - ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/emTr0)
-- 🔗 [More Profiles/Links](https://bio.link/emTr0)
+- 🔗 [More Profiles/Links](https://beacons.ai/emTr0)
