@@ -5,6 +5,7 @@
 Thanks for visiting! I'm currently working on the Full Stack Cloud Developer professional certificate from IBM/edX. Feel free to connect with me through the following links:
 
 - 🌐 [emTr0.dev](https://emTr0.dev)
+- :elephant: [Mastodon](https://hachyderm.io/@emTr0?rel=me)
 - 🐦 [Twitter](https://twitter.com/emTr0)
 - 📷 [Instagram](https://instagram.com/emTr0x)
 - 📬 [Telegram](https://t.me/emTr0)
