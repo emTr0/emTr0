@@ -5,7 +5,7 @@
 My repos include various projects to demonstrate my software development skills, especially for Python, JavaScript and Cloud development. Feel free to connect with me through the following links:
 
 - 🌐 [emTr0.dev](https://emTr0.dev)
-- :elephant: <a rel='me' href='https://hachyderm.io/@emTr0'>Mastodon</a>
+- :elephant: <a rel='me' href='https://infosec.exchange/@emTr0'>Mastodon (Infosec.Exchange)</a>
 - 🐦 [Twitter](https://twitter.com/emTr0)
 - 📷 [Instagram](https://instagram.com/emTr0x)
 - 📬 [Telegram](https://t.me/emTr0)
