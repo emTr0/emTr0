@@ -2,7 +2,7 @@
 
 [![emTr0 profile banner](https://github.com/emTr0/emTr0/blob/master/emtr0-banner-new-pc.png)](https://emTr0.dev)
 
-My repos include various projects to demonstrate my software development skills, especially for Python, JavaScript and Cloud development. Feel free to connect with me through the following links:
+My repos include various projects to demonstrate my software development skills, especially for cybersecurity, Python, JavaScript and Cloud development. Feel free to connect with me through the following links:
 
 - 🌐 [emTr0.dev](https://emTr0.dev)
 - :elephant: <a rel='me' href='https://infosec.exchange/@emTr0'>Mastodon (Infosec.Exchange)</a>
