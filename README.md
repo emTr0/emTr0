@@ -6,7 +6,7 @@ My repos include various projects to demonstrate my technical proficiency, espec
 
 - :elephant: <a rel='me' href='https://infosec.exchange/@emTr0'>Mastodon (Infosec.Exchange)</a>
 - 🐦 [Twitter](https://twitter.com/emTr0)
-- 📷 [Instagram](https://instagram.com/emTr0x)
+- 📷 [Instagram](https://instagram.com/_emTr0)
 - 📬 [Telegram](https://t.me/emTr0)
 - ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/emTr0)
 - 🔗 [More Profiles/Links](https://beacons.ai/emTr0)
